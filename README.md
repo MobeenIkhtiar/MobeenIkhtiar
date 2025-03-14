@@ -52,17 +52,16 @@
 
 ---
 
-
-### 🏆 **GitHub Profile Trophies**
+### ⚡ **GitHub Activity Graph**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MobeenIkhtiar&theme=algolia&margin-w=10&no-frame=true" width="90%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MobeenIkhtiar&theme=react-dark&hide_border=true">
 </p>
 
 ---
 
-### ⚡ **GitHub Activity Graph**
+### 🏆 **GitHub Profile Trophies**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MobeenIkhtiar&theme=react-dark&hide_border=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=MobeenIkhtiar&theme=algolia&margin-w=10&no-frame=true" width="90%">
 </p>
 
 ---
