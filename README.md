@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mobeen 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=75&lines=Full+Stack+Developer;MERN+%7C+ASP.NET+Core+%7C+React+Native;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Full+Stack+Developer;MERN+%7C+ASP.NET+Core+%7C+React+Native;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG">
 </p>
 
 ---
@@ -9,9 +9,9 @@
 ### 🚀 **About Me**
 - 🔥 Full Stack Developer with **MERN (MongoDB, Express.js, React, Node.js)**, **ASP.NET Core**, and **React Native**
 - 📱 Cross-Platform & Native Mobile Developer (**React Native, Flutter, Android, iOS**)
-- ⚡ Experienced in **cloud computing, real-time data processing, and microservices**
+- ⚡ Experienced in **Cloud Computing, Real-Time Data Processing, and Microservices**
 - 🛠️ Love working with **TypeScript, Redux, AWS, Docker, and Firebase**
-- 🎨 Focusing on **clean code, performance optimization, and best practices**
+- 🎨 Passionate about **performance optimization, scalable solutions, and best practices**
 
 ---
 
@@ -49,25 +49,6 @@
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-
-#### **🛢️ Databases & Messaging Queues**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-
-#### ☁️ **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
 ---
 
@@ -79,10 +60,39 @@
 
 ---
 
+### 🏆 **GitHub Profile Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MobeenIkhtiar&theme=algolia&margin-w=10&no-frame=true" width="90%">
+</p>
+
+---
+
+### ⚡ **GitHub Activity Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MobeenIkhtiar&theme=react-dark&hide_border=true">
+</p>
+
+---
+
+### 🎯 **Most Used Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobeenIkhtiar&layout=compact&theme=react&hide_border=true">
+</p>
+
+---
+
 ### 📫 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
+  </a>
+</p>
 
 ---
 
