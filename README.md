@@ -1,17 +1,14 @@
 <h1 align="center">Hi there, I'm Mobeen 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;MERN+%7C+ASP.NET+Core+%7C+React+Native;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=75&lines=Full+Stack+Developer;MERN+%7C+ASP.NET+Core+%7C+React+Native;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG">
 </p>
-
-<br>
-<br>
 
 ---
 
 ### 🚀 **About Me**
 - 🔥 Full Stack Developer with **MERN (MongoDB, Express.js, React, Node.js)**, **ASP.NET Core**, and **React Native**
-- 🎯 Passionate about **scalable web and mobile applications**
+- 📱 Cross-Platform & Native Mobile Developer (**React Native, Flutter, Android, iOS**)
 - ⚡ Experienced in **cloud computing, real-time data processing, and microservices**
 - 🛠️ Love working with **TypeScript, Redux, AWS, Docker, and Firebase**
 - 🎨 Focusing on **clean code, performance optimization, and best practices**
@@ -28,6 +25,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 
 #### **🌐 Frontend Frameworks & Libraries**
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
@@ -37,6 +35,12 @@
 ![Electron.js](https://img.shields.io/badge/-Electron.js-47848F?style=flat&logo=electron&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?style=flat&logo=chakraui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+#### **📱 Mobile Development**
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat&logo=apple&logoColor=white)
 
 #### **🔧 Backend Frameworks**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
