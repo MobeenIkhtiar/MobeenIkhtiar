@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mobeen 👋</h1>
+<h1>Hi there, I'm Mobeen  Ikhtair👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=90&lines=Full+Stack+Developer;MERN+%7C+ASP.NET+Core+%7C+React+Native;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG">
