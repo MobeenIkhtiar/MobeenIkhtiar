@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mobeen 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Full+Stack+Developer;MERN+%7C+ASP.NET+Core+%7C+React+Native+Flutter+%7C+Android+%7C+IOS+%7C+ASP.NET+;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Full+Stack+Developer;MERN+%7C+ASP.NET+Core+%7C+React+Native+Flutter+%7C+7C+ASP.NET+;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG">
 </p>
 
 ---
@@ -52,13 +52,6 @@
 
 ---
 
-### 📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MobeenIkhtiar&theme=react&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api?username=MobeenIkhtiar&show_icons=true&theme=react&hide_border=true" width="48%">
-</p>
-
----
 
 ### 🏆 **GitHub Profile Trophies**
 <p align="center">
@@ -82,17 +75,7 @@
 ---
 
 ### 📫 **Let's Connect**
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white">
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
-  </a>
-</p>
+
 
 ---
 
